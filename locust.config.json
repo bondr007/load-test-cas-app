@@ -1,0 +1,4 @@
+{
+    "target": "https://cas_example.uni.edu",
+    "locusts": ["CASLocust"]
+  }
