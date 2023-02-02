@@ -24,4 +24,4 @@ pyparsing==2.2.0
 requests==2.13.0
 service-identity==16.0.0
 six==1.10.0
-Werkzeug==0.12.1
+Werkzeug==0.15.5
